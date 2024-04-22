@@ -1,9 +1,13 @@
-# Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
+# Name: Tharika S
+# Reference Number: 212222230159
+# Department: AI&DS
+# Date: 22-04-2024
+# Experiment-08: Pick and place of objects using industrial manipulator.
 
 ### Aim :
-      To pick and place a regular shape using two finger gripper on the conveyor belt 
+To pick and place a regular shape using two finger gripper on the conveyor belt 
 ### Equipment Required: 
-      Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
+Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
 ### Theory: 
 
@@ -79,8 +83,6 @@ Installation position: floor, ceiling, walls.
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
 and click on the connect icon 
 
-3. click on the 
-
 
 
 
@@ -100,13 +102,23 @@ and click on the connect icon
 
 ### output video and screen shots of pick and place 
 
+![WhatsApp Image 2024-04-22 at 10 52 44_b34118c3](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/f3b1bccf-3b0e-4ae1-b140-c78cdd84f760)
+![WhatsApp Image 2024-04-22 at 10 52 44_b8f999eb](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/d32183c3-2ac0-4b0c-b084-c0d618b6e4e3)
+![WhatsApp Image 2024-04-22 at 10 52 44_916ef995](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/c3ef86f0-95dc-4f7d-bc00-7d8142a11d87)
+![WhatsApp Image 2024-04-22 at 10 52 44_66f83e5f](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/544394d2-2591-46f5-9dd6-b4e12b053f5d)
+
+
+![WhatsApp Image 2024-04-22 at 11 04 37_79ffc7ce](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/48fb0bed-2189-4d85-b845-544324bb597f)
+![WhatsApp Image 2024-04-22 at 11 04 38_0870f275](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/89c0d937-cc43-4ef3-a878-4bc589dbfb30)
+![WhatsApp Image 2024-04-22 at 10 52 43_04ac3f5a](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/57b98911-d1ca-4c24-9e12-310227c712da)
+![WhatsApp Image 2024-04-22 at 10 52 43_4e509094](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/52555d99-2aa6-46c2-b082-e34927906d0c)
+![WhatsApp Image 2024-04-22 at 10 52 44_d8ccc829](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/bd1e6c90-43e3-42d4-a496-66275815c2dc)
+![WhatsApp Image 2024-04-22 at 10 52 44_e000d0ac](https://github.com/AshwinAkash24/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144979248/35ab16db-2870-45ea-b45e-ac9395033d64)
 
 
 
-
-
-
-### Results: 
+### Results:
+Hence,the Pick and place of objects using industrial manipulator executed succesfully.
 
 
 
